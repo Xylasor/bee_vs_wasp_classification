@@ -12,7 +12,10 @@ Pliki:
   
 Dodatkowo link do dysku google zawierącego wytrenowane modele oraz wyniki uczenia: https://drive.google.com/drive/folders/1CMS0DiekNywAM4cpEUUvkXf_Xy1YUPmV?usp=sharing
 
-Źródła:
+Źródło danych: 
+https://www.kaggle.com/datasets/jerzydziewierz/bee-vs-wasp
+
+Inne źródła:
 
 https://keras.io/examples/vision/grad_cam/
 
